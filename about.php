@@ -1,6 +1,4 @@
-<?php
-ob_start();
-?>
+<?php ob_start(); ?>
 
 <div class="container bg-header">
     <h2 class="pt-2">About Us</h2>

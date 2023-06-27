@@ -1,6 +1,4 @@
-<?php
-ob_start();
-?>
+<?php ob_start(); ?>
 
 <div class="banner">
     <img srcset="img/pas.webp" />
@@ -12,7 +10,7 @@ ob_start();
 <div class="container">
     <h1>Our Brands</h1>
     <p class="pt-3">Kami sebagai pusat belanja fashion terbesar di Indonesia dapat menjawab kebutuhan fashion
-        pria dan fashion wanita dengan menawarkan brand-brand terbaru dan terkemuka, baik lokal maupun internasional..
+        pria dan fashion wanita dengan menawarkan brand-brand terbaru dan terkemuka, baik lokal maupun internasional.
     </p>
 </div>
 <div class="grid-container-4">
